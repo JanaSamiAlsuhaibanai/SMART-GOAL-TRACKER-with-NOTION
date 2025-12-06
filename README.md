@@ -20,11 +20,6 @@ Smart Goal Tracker with Notion is a web application that helps users plan and tr
    ```
 
 ## Configuration
-- Add your Notion API token and database ID in the code or via environment variables.
-- Add your Cohere API key for AI-powered suggestions.
+- Add your Notion API token and database ID in the code or via environment variables
+- Add your Cohere API key for the AI  suggestions
 
-## License
-MIT
-
-## Author
-Jana Alsuhaibani
