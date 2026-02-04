@@ -81,7 +81,7 @@ Category: Learning
 
 ---
 
-## 🏗️ How It Works
+##  How It Works
 
 ```
 User Input → AI Analysis (Cohere) → Time Suggestions → Notion Sync
@@ -91,7 +91,7 @@ User Input → AI Analysis (Cohere) → Time Suggestions → Notion Sync
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```txt
 streamlit==1.28.0
@@ -104,34 +104,7 @@ plotly==5.17.0
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-Areas to improve:
-- 🌐 Arabic language support
-- 📱 Mobile responsive UI
-- 📊 Analytics dashboard
-- 🔔 Notifications
-
----
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE)
-
----
-
-## 🙏 Credits
-
-Built with [Streamlit](https://streamlit.io), [Cohere](https://cohere.ai), and [Notion](https://notion.so)
-
----
-
-<div align="center">
 
 **Made with ❤️ for productivity**
 
-[⭐ Star this repo](https://github.com/JanaSamiAlsuhaibanai/SMART-GOAL-TRACKER-with-NOTION) • [🐛 Report Bug](https://github.com/JanaSamiAlsuhaibanai/SMART-GOAL-TRACKER-with-NOTION/issues) • [💡 Request Feature](https://github.com/JanaSamiAlsuhaibanai/SMART-GOAL-TRACKER-with-NOTION/issues)
 
-</div>
